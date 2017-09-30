@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cardset name="History">
+
+	<card>
+		<question>Quel est la date de fin du moyen âge?</question>
+		<answer>1492</answer>
+		<priority>3</priority>
+	</card>
+
+	<card>
+		<question>Quand à eu lieu la défaite de Vercingétorix?</question>
+		<answer>-52</answer>
+		<priority>2</priority>
+	</card>
+
+	<card>
+		<question>Quel est la date de la révolution Française?</question>
+		<answer>1789</answer>
+		<priority>4</priority>
+	</card>
+
+	<card>
+		<question>Qu'est-ce qu'une croisade?</question>
+		<answer>Un pèlerinage en armes</answer>
+		<priority>1</priority>
+	</card>
+
+	<card>
+		<question>Qu'est-ce qu'une étuve?</question>
+		<answer>Etablissement commercial</answer>
+		<priority>3</priority>
+	</card>
+
+	<card>
+		<question>Date de la fondation du monastère de Cluny?</question>
+		<answer>909</answer>
+		<priority>4</priority>
+	</card>
+
+	<card>
+		<question>Que ce passe-t-il en 909?</question>
+		<answer>Fondation du monastère de Cluny</answer>
+		<priority>3</priority>
+	</card>
+
+	<card>
+		<question>Quel est la date de la prise de Jérusalem par Saladin?</question>
+		<answer>1187</answer>
+		<priority>4</priority>
+	</card>
+
+	<card>
+		<question>Quel est la date de la fin de la Guerre de Cent Ans?</question>
+		<answer>1453</answer>
+		<priority>5</priority>
+	</card>
+
+	<card>
+		<question>Quel est la date du début de la IIeme République?</question>
+		<answer>1848</answer>
+		<priority>4</priority>
+	</card>
+
+</cardset>

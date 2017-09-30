@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="Timer duration"
+                        android:inputType="number"
+                        android:defaultValue="10"
+                        android:key="timer_duration"
+                        android:summary="Change the timer duration in seconds"/>
+
+    <ListPreference android:title="Notifications delay"
+                    android:summary="Elapsed time before notification"
+                    android:key="notification_delay"
+                    android:defaultValue="1"
+                    android:entries="@array/listArray"
+                    android:entryValues="@array/listValues"/>
+
+</PreferenceScreen>
